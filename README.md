@@ -4,6 +4,6 @@ Frayant son passage dans les bois obscurs.
 
 **Exemple**  
 fichier en entrée :  
-3,0
-SSSSEEEEEENN
+3,0  
+SSSSEEEEEENN  
 ![exemple d'exécution](https://github.com/samanismail/Aventurier/blob/master/Screen/Test1.png)
