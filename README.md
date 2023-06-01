@@ -6,4 +6,5 @@ Frayant son passage dans les bois obscurs.
 fichier en entrée :  
 3,0  
 SSSSEEEEEENN  
-![exemple d'exécution](https://github.com/samanismail/Aventurier/blob/master/Screen/Test1.png)
+![exemple d'exécution1](https://github.com/samanismail/Aventurier/blob/master/Screen/Test1.png)
+![exemple d'exécution1](https://github.com/samanismail/Aventurier/blob/master/Screen/Test2.png)
